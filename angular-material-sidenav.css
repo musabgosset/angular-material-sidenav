@@ -12,9 +12,6 @@
     margin: 0;
 }
 
-.menu > li {
-    border-bottom: 1px solid;
-}
 
 .menu > li:nth-child(1) {
     border-top: none;
@@ -76,7 +73,7 @@
     margin: 0;
     padding: 8px 16px 0;
     text-align: left;
-    width: 100%;
+    width: 90%;
 }
 
 .menu-toggle-list {
